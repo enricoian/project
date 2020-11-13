@@ -1,0 +1,11 @@
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\bin\Debug\Kalkulator Penghitung Modal.exe.config
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\bin\Debug\Kalkulator Penghitung Modal.exe
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\bin\Debug\Kalkulator Penghitung Modal.pdb
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\bin\Debug\Kalkulator Penghitung Modal.xml
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator Penghitung Modal.vbprojResolveAssemblyReference.cache
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator_Penghitung_Modal.Form1.resources
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator_Penghitung_Modal.Resources.resources
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator Penghitung Modal.vbproj.GenerateResource.Cache
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator Penghitung Modal.exe
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator Penghitung Modal.xml
+c:\users\enr\documents\visual studio 2015\Projects\Kalkulator Penghitung Modal\Kalkulator Penghitung Modal\obj\Debug\Kalkulator Penghitung Modal.pdb
