@@ -1,0 +1,34 @@
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.exe.config
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.csprojResolveAssemblyReference.cache
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.Form1.resources
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.Properties.Resources.resources
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.csproj.GenerateResource.Cache
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.exe
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\percobaan1.pdb
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\ExcelDataReader.DataSet.dll
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\ExcelDataReader.dll
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\ExcelDataReader.xml
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\bin\Debug\ExcelDataReader.DataSet.xml
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.exe
+c:\users\enr\documents\visual studio 2015\Projects\percobaan1\percobaan1\obj\Debug\percobaan1.pdb
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\percobaan1.exe.config
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.exe
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.pdb
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\percobaan1.exe
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\percobaan1.pdb
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.xml
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.Form1.resources
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.Properties.Resources.resources
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.csproj.GenerateResource.Cache
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelLibrary.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\LinqToExcel.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\Remotion.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\Remotion.Interfaces.dll
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\LinqToExcel.xml
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.pdb
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\obj\Debug\percobaan1.csprojResolveAssemblyReference.cache
+C:\Users\enr\Documents\Visual Studio 2015\Projects\percobaan1 - Copy\percobaan1\bin\Debug\ExcelDataReader.DataSet.pdb
